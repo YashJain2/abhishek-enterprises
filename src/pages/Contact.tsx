@@ -60,7 +60,7 @@ export default function Contact() {
             </div>
             <div className={styles.links}>
             <a
-              href="https://maps.google.com/?q=1E%2F17+BP+NIT+1-2+ChowK+Block+1%2C+New+Industrial+Twp+1%2C+New+Industrial+Township%2C+Faridabad%2C+Haryana+121001"
+              href="https://www.google.com/maps/place/ABHISHEK+ENTERPRISES/@28.3813341,77.2950348,17z/data=!3m1!4b1!4m6!3m5!1s0x390cdc2882b14ab5:0x7c7eff97b4c7aa66!8m2!3d28.3813294!4d77.2976097!16s%2Fg%2F11bxdtw5pd?entry=ttu"
               target="_blank"
               rel="noopener noreferrer"
               className={styles.mapLink}
